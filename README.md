@@ -58,3 +58,7 @@ All charts made with Altair:
 - `notebooks/` – Analysis notebooks with explanations  
 - `results/` – Charts and prediction files  
 - `poster/final_poster.pdf` – Final poster
+
+## Links
+- **GitHub**: https://github.com/---/final-project  
+- **Dataset**: data/ufo_sightings.csv (included)
